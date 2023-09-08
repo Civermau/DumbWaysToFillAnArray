@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbWaysToFillAnArray", "DumbWaysToFillAnArray\DumbWaysToFillAnArray.csproj", "{FC38FFEE-61A3-4FE6-8CC4-EBE2BD691246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC38FFEE-61A3-4FE6-8CC4-EBE2BD691246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC38FFEE-61A3-4FE6-8CC4-EBE2BD691246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC38FFEE-61A3-4FE6-8CC4-EBE2BD691246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC38FFEE-61A3-4FE6-8CC4-EBE2BD691246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9A29F3-4345-4BE8-8563-DA19DCF464D7}
+	EndGlobalSection
+EndGlobal
